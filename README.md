@@ -87,13 +87,6 @@ open_to:
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| Predictive Modeling | ⭐⭐⭐⭐ | scikit-learn, XGBoost, LightGBM for classification tasks |
-| Feature Engineering | ⭐⭐⭐⭐ | Missing-value treatment, normalization, class-imbalance handling |
-| Exploratory Data Analysis | ⭐⭐⭐⭐⭐ | Large-scale EDA on 2M+ record datasets |
-| Model Evaluation | ⭐⭐⭐⭐ | Accuracy, precision, recall, F1, confusion matrices |
-| Data Visualization | ⭐⭐⭐⭐ | Matplotlib, Seaborn, Power BI, Tableau |
 
 </div>
 
