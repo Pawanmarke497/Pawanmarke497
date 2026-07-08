@@ -83,7 +83,6 @@ open_to:
 
 ---
 
-### 🤖 AI / ML Expertise
 
 <div align="center">
 
