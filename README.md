@@ -44,7 +44,7 @@ open_to:
   - Backend & full-stack engineering opportunities
 ```
 
-Final-year **B.E. Computer Engineering** student with a strong foundation in Python, SQL, and object-oriented design, built through academic projects, a virtual data-analytics internship, and hands-on industrial training. Comfortable writing production-quality Python, working with Git/GitHub, and applying iterative, Agile-style development to real datasets. Shipped a machine-learning intrusion detection system at **99.81% accuracy** and a sales analytics dashboard used for stakeholder reporting — currently expanding into Django/Flask and REST APIs to grow into a full software engineering role.
+**B.E. Computer Engineering** student with a strong foundation in Python, SQL, and object-oriented design, built through academic projects, a virtual data-analytics internship, and hands-on industrial training. Comfortable writing production-quality Python, working with Git/GitHub, and applying iterative, Agile-style development to real datasets. Shipped a machine-learning intrusion detection system at **99.81% accuracy** and a sales analytics dashboard used for stakeholder reporting — currently expanding into Django/Flask and REST APIs to grow into a full software engineering role.
 
 ---
 
@@ -177,7 +177,6 @@ Completed a 6-week hands-on industrial training program focused on Python progra
 | Recognition | Details |
 |---|---|
 | Outstanding (O) Grade | Data Analytics with Python & Power BI Virtual Internship (AICTE) |
-| Research Submission | ML NIDS findings submitted to ACROSET 2026 (Paper ID: 118) |
 | 99.81% Model Accuracy | Achieved on large-scale network intrusion detection task |
 | Industrial Training Recognition | Recognized for efficiency and fast learning during internship |
 
