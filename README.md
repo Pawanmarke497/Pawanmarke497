@@ -37,7 +37,7 @@ focus:
   - Python programming, OOP, and Data Structures & Algorithms
   - Data analysis, statistical modeling, and business intelligence
   - Machine learning: predictive modeling & feature engineering
-  - Backend development (Django/Flask, REST APIs) — currently leveling up
+  - Backend development (Django/Flask, REST APIs) 
 open_to:
   - Software Developer / Python Developer roles (entry-level)
   - Data Analyst roles
