@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:4B0082&height=220&section=header&text=Pawan%20Marke&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Python+%7C+SQL+%7C+Data+Structures+%26+Algorithms;Machine+Learning+%7C+Predictive+Modeling;Building+End-to-End+Data+%26+Software+Solutions;Currently+Learning+Django+%2F+Flask+%2F+REST+APIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Python+%7C+SQL+%7C+Data+Structures+%26+Algorithms;Machine+Learning+%7C+Predictive+Modeling;Building+End-to-End+Data+%26+Software+Solutions;Django+%2F+Flask+%2F+REST+APIs" alt="Typing SVG" />
 </a>
 
 <br/>
