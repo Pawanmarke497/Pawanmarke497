@@ -239,7 +239,6 @@ Completed a 6-week hands-on industrial training program focused on Python progra
 ### 🎯 Current Focus
 
 ```yaml
-Learning:
   - Django & Flask for backend web development
   - REST API design and integration
   - React/Angular fundamentals
