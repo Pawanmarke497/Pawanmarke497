@@ -32,7 +32,7 @@
 
 ```yaml
 name: Pawan Chandrakant Marke
-role: Python Developer | Data Analyst | Aspiring Software Engineer
+role: Python Developer | AI Engineer | Aspiring Software Engineer
 focus:
   - Python programming, OOP, and Data Structures & Algorithms
   - Data analysis, statistical modeling, and business intelligence
@@ -40,11 +40,11 @@ focus:
   - Backend development (Django/Flask, REST APIs) 
 open_to:
   - Software Developer / Python Developer roles (entry-level)
-  - Data Analyst roles
+  - AI Engineer roles
   - Backend & full-stack engineering opportunities
 ```
 
-**B.E. Computer Engineering** student with a strong foundation in Python, SQL, and object-oriented design, built through academic projects, a virtual data-analytics internship, and hands-on industrial training. Comfortable writing production-quality Python, working with Git/GitHub, and applying iterative, Agile-style development to real datasets. Shipped a machine-learning intrusion detection system at **99.81% accuracy** and a sales analytics dashboard used for stakeholder reporting — currently expanding into Django/Flask and REST APIs to grow into a full software engineering role.
+**B.E. Computer Engineering** student with a strong foundation in Python, SQL, GenAI , RAG, LLM, Agents and object-oriented design, built through academic projects, a virtual data-analytics internship, and hands-on industrial training. Comfortable writing production-quality Python, working with Git/GitHub, and applying iterative, Agile-style development to real datasets. Shipped a machine-learning intrusion detection system at **99.81% accuracy** and a sales analytics dashboard used for stakeholder reporting — currently expanding into Django/Flask and REST APIs to grow into a full software engineering role.
 
 ---
 
@@ -65,8 +65,8 @@ open_to:
 
 **Backend & Databases**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&label=Django%20(learning))
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&label=Flask%20(learning))
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&label=Django%20)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&label=Flask%20)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -238,18 +238,14 @@ Completed a 6-week hands-on industrial training program focused on Python progra
 
 ### 🎯 Current Focus
 
-```yaml
-  - Django & Flask for backend web development
-  - REST API design and integration
-  - React/Angular fundamentals
 Building:
   - Full-stack Python applications
   - ML-driven data products
 Exploring:
-  - Cloud deployment basics for Python apps
+  - Cloud deployment for Python apps
   - Advanced SQL query optimization
 Open To:
-  - Entry-level Software Developer roles
+  - Entry-level Software Developer/AI Engineer roles
   - Data Analyst roles
   - Collaborative open-source projects
 ```
