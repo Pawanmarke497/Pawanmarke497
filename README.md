@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:4B0082&height=220&section=header&text=Pawan%20Marke&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:4B0082&height=220&section=header&text=Pawan%20Marke&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Python+%7C+SQL+%7C+Data+Structures+%26+Algorithms;Machine+Learning+%7C+Predictive+Modeling;Building+End-to-End+Data+%26+Software+Solutions;Django+%2F+Flask+%2F+REST+APIs" alt="Typing SVG" />
@@ -44,7 +44,7 @@ open_to:
   - Backend & full-stack engineering opportunities
 ```
 
-**B.E. Computer Engineering** student with a strong foundation in Python, SQL, GenAI , RAG, LLM, Agents and object-oriented design, built through academic projects, a virtual data-analytics internship, and hands-on industrial training. Comfortable writing production-quality Python, working with Git/GitHub, and applying iterative, Agile-style development to real datasets. Shipped a machine-learning intrusion detection system at **99.81% accuracy** and a sales analytics dashboard used for stakeholder reporting — currently expanding into Django/Flask and REST APIs to grow into a full software engineering role.
+**B.E. Computer Engineering** student with a strong foundation in Python, SQL, GenAI , RAG, LLM, Agents and object-oriented design, built through academic projects, a virtual data-analytics internship, and hands-on industrial training. Comfortable writing production-quality Python, working with Git/GitHub, and applying iterative, Agile-style development to real datasets. Shipped a machine-learning intrusion detection system at **99.81% accuracy** and a sales analytics dashboard used for stakeholder reporting.
 
 ---
 
